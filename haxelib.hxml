@@ -1,0 +1,11 @@
+{
+  "name": "socketio-cli",
+  "url" : "https://github.com/shogochiai/socketio-cli-haxe",
+  "license": "MIT",
+  "tags": ["socketio", "clientjs"],
+  "description": "socketio client",
+  "version": "0.0.1",
+  "contributors": ["shogochiai"],
+  "dependencies": {
+  }
+}
