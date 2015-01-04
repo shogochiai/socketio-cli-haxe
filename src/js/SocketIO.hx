@@ -1,4 +1,4 @@
-package js.node;
+package js;
 
 /**
  * ...

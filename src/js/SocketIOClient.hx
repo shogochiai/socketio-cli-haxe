@@ -1,6 +1,6 @@
-package js.node;
+package js;
 
-import js.node.SocketIO;
+import js.SocketIO;
 
 @:native("io")
 extern
